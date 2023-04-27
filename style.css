@@ -9,8 +9,7 @@ justify-content: space-around;
 padding: 24px 0;
 }
 .imagem-cabecalho{
-    widht:15%;
-    height: 10%;
+    width: 40%;
 }
 h1
     {display: inline-block; 
@@ -42,6 +41,7 @@ font-size: 24px;}
 
  .aluno-um
  {width: 20%;
+
 } 
 .estudante-icone
 {width: 60px;}
@@ -70,10 +70,16 @@ body{font-family: Georgia, 'Times New Roman', Times, serif;}
 {
     text-align: center;
 }
-.estudantes-todos
+
+
+.estudante-todos
 {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
+}
+
+footer{
+    background-color: rgb(202, 12, 43) ;
 }
 
  
